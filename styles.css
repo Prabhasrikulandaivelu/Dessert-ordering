@@ -37,7 +37,14 @@ body {
 #darkmode {
   font-size: 25px;
   cursor: pointer;
+  
 }
+#cart-icon {
+  font-size: 1.8rem;
+  cursor: pointer;
+
+  }
+  
 header {
   position: fixed;
   width: 100%;
